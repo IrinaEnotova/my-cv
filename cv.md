@@ -5,7 +5,7 @@
 * Phone: +7 987 923 2119
 * E-mail: irinkayashina@gmail.com
 * Telegram: @irinaenotova
-* GitHub: @irinaenotova
+* GitHub: [@irinaenotova](https://github.com/IrinaEnotova)
 ***
 ### About myself:
 
