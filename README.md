@@ -1,2 +1,3 @@
-# rsschool-cv
-### https://IrinaEnotova.github.io/rsschool-cv/cv
+# My CV
+
+You can see my CV here 👉 [Link](https://irinaenotova.github.io/my-cv/)
